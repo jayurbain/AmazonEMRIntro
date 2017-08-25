@@ -1,0 +1,22 @@
+COLONOSCOPY Procedure Note    
+Date of Procedure:  [1_31_2016]     
+Referring Physician  / 
+Primary Physician: [PERSON] [PERSON] [PERSON], MD  
+Attending Physician: [PERSON] [PERSON], MD  
+Fellow: None    Indications: Colorectal cancer screening  average risk  
+Previous COLONOSCOPY: Yes.    
+Date:   [9_15_2013]    inadequate colon preparation    HPI:  55 year old man here for average risk screening COLONOSCOPY.   He underwent COLONOSCOPY in 2013, but the colon preparation was inadequate.   No polyps or masses were found on that examination.   He was admitted to help with colon preparation and is here today for COLONOSCOPY.   Currently he is asymptomatic from a GI standpoint    Medications: Fentanyl  74 mcg IV and Midazolam 2 mg IV     
+
+Procedure Details:  The patient was placed in the left lateral position and monitored continuously with ECG tracing, pulse oximetry monitoring and direct observations.   Medications were administered incrementally over the course of the procedure to achieve an adequate level of conscious sedation.   After digital examination of the rectum was performed, the Olympus CF  H180 was inserted into the rectum and advanced under direct vision to the terminal ileum.    The procedure was considered not difficult.   Overall the patient tolerated the procedure well, without undue discomfort, hypotension or desaturation.   The patient was adequately recovered in the endoscopy suite and was transferred to inpatient unit.    During withdrawal examination, the final quality of the prep was [LOCATION] Bowel Prep Scale: Right Colon: Grade 2   (minor amount of residual staining, small fragments of stool, and/or opaque liquid, but mucosa of colon segment is seen well) Transverse Colon: Grade 2   (minor amount of residual staining, small fragments of stool, and/or opaque liquid, but mucosa of colon segment is seen well) Left Colon: Grade 3   (entire mucosa of colon segment seen well, with no residual staining, small fragments of stool, or opaque liquid) Additional rinsing and suctioning were necessary to obtain adequate views.    A careful inspection was made as the colonoscope was withdrawn.    This did include a retroflexed evaluation of the rectum.    Findings and interventions are described below.   Appropriate photo documentation was obtained.      Overall [PATIENT] [PATIENT] did tolerate the procedure well, without undue discomfort, hypotension, or desaturation.    At the completion of the procedure he was transferred from the endoscopy suite to be recovered in the GI Lab observation area per protocol and was discharged when criteria was met.    After adequate recovery from sedation, he was discharged to home, with appropriate plans for follow up in place.       Withdrawal Time: 11 minutes    
+
+Findings:  Anorectal:  Normal  Terminal Ileum:   Normal ileal mucosa  Cecum:   Normal mucosa             Ascending Colon:   Normal mucosa   Transverse Colon:   Normal mucosa         Descending Colon:  Normal mucosa   Sigmoid Colon:    Normal mucosa         Rectum:   Normal rectal mucosa throughout  Small internal hemorrhoids          
+
+Interventions:  None  Complications: None  Impression:   1.   Normal COLONOSCOPY to the terminal ileum, with no evidence of neoplasia, diverticular disease, or mucosal abnormality.    2.   Colon preparation was fair, but was able to lavage and suction residual staining to get an adequate look of the underlying mucosa.    3.   Small internal hemorrhoids    
+
+Recommendations:    Dietary recommendations:  High fiber diet.    Repeat COLONOSCOPY in 10 years  
+Next Interval COLONOSCOPY:  10 years  
+
+Histopathologic Diagnosis:none  
+
+Qualify for GI Quality project: No  
+[PERSON] [PERSON] [PERSON], MD  
