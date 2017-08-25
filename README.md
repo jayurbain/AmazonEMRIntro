@@ -32,6 +32,7 @@ Amazon EMR Release Guide
 http://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-hadoop-application.html
  
 Apache Hadoop 
-http://hadoop.apache.org/
+http://hadoop.apache.org/  
+
 Programming Elastic MapReduce Using AWS Services to Build an End-to-End Application, Kevin Schmidt, Christopher Phillips, O'Reilly Media, December 2013.
 http://shop.oreilly.com/product/0636920029304.do
